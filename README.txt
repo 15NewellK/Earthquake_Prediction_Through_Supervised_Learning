@@ -18,7 +18,9 @@ The 4 Jupyter Notebooks should be run in the order they are numbered in the titl
 3. Feature Engineering 
 4. Modelling and Findings
 
-NOTE: In Notebook 4. Modeling and Findings there are 4 cells that can take several minutes to hours to run depending on computer processing strength, there is a warning note in the Notebook as well directly before these cells apear.
+
+NOTE: In Notebook 4. Modeling and Findings there are 4 cells that can take several minutes to hours to run depending on computer processing strength, there is a warning note in the Notebook as well directly before these cells apear. Additionally there are several points throughout the notebooks that information is written to csv to be used in subsequent notebooks, so there will be errors in the notebooks if they are run in a different order than listed above.
+
 
 All files in this notebook, with the exception of 4. Modeling, can be run in the base anaconda environment (Python 3 kernel). The modeling notebook requires 1 additional installation, which is included at the begining of the notebook.
 
