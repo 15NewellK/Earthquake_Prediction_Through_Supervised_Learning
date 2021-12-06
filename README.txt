@@ -9,7 +9,7 @@ This repository 'Earthquake_Prediction_Through_Supervised_Learning' contains the
 - 1 readme file
 - 1 csv file titled earthquake_database containing data on all earthquakes with magnitude higher than 5.5 on a richter scale from 1960-2016
 - 4 Jupyter Notebooks
-- 1 Technical Summary Business report in PDF format
+- 1 Technical Summary Business report in PDF format, titled A Predictive Model of Earthquakes Through Supervised Learning.pdf
 
 
 The 4 Jupyter Notebooks should be run in the order they are numbered in the title:
